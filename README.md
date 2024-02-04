@@ -7,4 +7,6 @@ the new key processing taking time.
 the new key not working so will definitely go back to my old book 
 open to project 
 
-a lot to fo on this project
+a lot todo on this project
+
+this is my CV ooo
