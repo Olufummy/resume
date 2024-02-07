@@ -9,4 +9,4 @@ open to project
 
 a lot todo on this project
 
-this is my CV ooo
+this is my CV
